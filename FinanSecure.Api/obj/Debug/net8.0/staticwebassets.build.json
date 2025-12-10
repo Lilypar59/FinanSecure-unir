@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aD7BjnQpqTJ86tcptjFdiw6qG9RY+Yh37tjBYSSd6rE=",
+  "Source": "FinanSecure.Api",
+  "BasePath": "_content/FinanSecure.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
